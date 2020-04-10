@@ -1,9 +1,9 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-using System;
+﻿using System;
 using Microsoft.Data.Sqlite;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
-namespace Extensions.SQLite.InMemoryDb
+namespace NetExtensions
 {
     public static class ServiceCollectionExtensions
     {

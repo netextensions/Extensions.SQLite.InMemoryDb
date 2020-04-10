@@ -11,7 +11,7 @@
     <RepositoryUrl>https://github.com/netextensions/Extensions.SQLite.InMemoryDb</RepositoryUrl>
     <PackageTags>SQLite.InMemoryDb,.net core</PackageTags>
     <PackageId>NetExtensions.Extensions.SQLite.InMemoryDb</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <Authors>netextensions.io</Authors>
     <PackageIcon>icon.png</PackageIcon>
