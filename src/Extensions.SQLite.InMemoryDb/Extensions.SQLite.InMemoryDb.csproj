@@ -11,7 +11,7 @@
     <RepositoryUrl>https://github.com/netextensions/Extensions.SQLite.InMemoryDb</RepositoryUrl>
     <PackageTags>SQLite.InMemoryDb,.net core</PackageTags>
     <PackageId>NetExtensions.Extensions.SQLite.InMemoryDb</PackageId>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.1-preview.4.20220.10</PackageVersion>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <Authors>netextensions.io</Authors>
     <PackageIcon>icon.png</PackageIcon>
@@ -25,11 +25,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.3" />
-    <PackageReference Include="Microsoft.Data.SQLite" Version="3.1.2" />
-    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="3.1.2" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="3.1.2" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0-preview.4.20251.6" />
+    <PackageReference Include="Microsoft.Data.SQLite" Version="5.0.0-preview.4.20220.10" />
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="5.0.0-preview.4.20220.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.0-preview.4.20220.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.0-preview.4.20220.10" />
   </ItemGroup>
 
 </Project>
